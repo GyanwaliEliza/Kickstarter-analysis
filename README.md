@@ -2,6 +2,7 @@
 
 ## Overview 
 Analysis for this challenge was done using the Lousie's Fundraising goal data. 
+https://github.com/GyanwaliEliza/Kickstarter-analysis/blob/5f36f656d9404141644f45a8d052955b9306fbcd/Kickstarter_Challenge.xlsx.zip
 
 
 ## Purpose
