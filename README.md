@@ -8,12 +8,17 @@ Analysis for this challenge was done using the Lousie's Fundraising goal data.
 The purpose of this challenge was to see the fundraising outcomes of different products based on Launch date and goals. 
 
 
-
 ## Analysis
 
-First, we analyzed categories to see their outcomes based on Launch Date. A pivot table was used to get counts of successful, failed and cancelled outcomes and grand totals for the theater category. Then that data was illustrated using a lie chart. 
+First, we analyzed categories to see their outcomes based on Launch Date. A pivot table was used to get counts of successful, failed and cancelled outcomes and grand totals for the theater category. Then that data was illustrated using the line chart below:
 
-For the outcome based on goal analysis, goal was section into ranges and a count of successful, failed or cancelled was calculated in each range. Then, further calculations were performed to find the percentage successful, failed and canceled. This data was then visualized using a line chart. 
+https://github.com/GyanwaliEliza/Kickstarter-analysis/blob/2aa38f41670357d5687a14cc50c1493206e1d75b/Theater_Outcomes_vs_Launch.png
+
+
+For the outcome based on goal analysis, goal was section into ranges and a count of successful, failed or cancelled was calculated in each range. Then, further calculations were performed to find the percentage successful, failed and canceled. This data was then visualized using a line chart: 
+
+https://github.com/GyanwaliEliza/Kickstarter-analysis/blob/2aa38f41670357d5687a14cc50c1493206e1d75b/Outcomes_vs_Goals.png
+
 
 # Result
 
